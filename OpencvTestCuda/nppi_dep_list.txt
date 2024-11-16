@@ -1,0 +1,9 @@
+﻿nppial.lib
+nppicc.lib
+nppidei.lib
+nppif.lib
+nppig.lib
+nppim.lib
+nppist.lib
+nppisu.lib
+nppitc.lib

@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/OpencvTestCuda/OpencvTestCuda.vcxproj.user
+/x64
+/OpencvTestCuda/x64
+/OpencvTestCuda/Debug
